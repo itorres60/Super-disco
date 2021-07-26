@@ -1,1 +1,3 @@
-$("#current").text(moment().format('LL'))
+$("#currentDay").text(moment().format('LL'));
+
+
