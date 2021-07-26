@@ -1,0 +1,1 @@
+$("#current").text(moment().format('LL'))
